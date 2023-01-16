@@ -1,2 +1,2 @@
 # POD
-Calculate 2 POD
+Calculate 2D POD
